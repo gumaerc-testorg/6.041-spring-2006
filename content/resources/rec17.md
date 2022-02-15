@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problem set for recitation seventeen.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/c508c8c52a9696f83d1cf8f110eb52be_rec17.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/c508c8c52a9696f83d1cf8f110eb52be_rec17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec17.pdf
 uid: c508c8c5-2a96-96f8-3d1c-f8f110eb52be

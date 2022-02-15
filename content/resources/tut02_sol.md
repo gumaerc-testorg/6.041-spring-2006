@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/4472d39cfe44a04977aabd91ef5b4972_tut02_sol.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/4472d39cfe44a04977aabd91ef5b4972_tut02_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: tut02_sol.pdf
 uid: 4472d39c-fe44-a049-77aa-bd91ef5b4972

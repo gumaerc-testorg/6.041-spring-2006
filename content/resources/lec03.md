@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on probability.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/742af76fecc70951d06ca0fca77c4b13_lec03.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/742af76fecc70951d06ca0fca77c4b13_lec03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec03.pdf
 uid: 742af76f-ecc7-0951-d06c-a0fca77c4b13

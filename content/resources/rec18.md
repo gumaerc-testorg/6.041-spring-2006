@@ -4,8 +4,13 @@ description: 'This resource contains problems on competing exponentials and Pois
   arrivals during an exponentially distributed
 
   interval in recitation eighteen.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/048bf9aa0d83d6a11ceadd830b3fa93c_rec18.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/048bf9aa0d83d6a11ceadd830b3fa93c_rec18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec18.pdf
 uid: 048bf9aa-0d83-d6a1-1cea-dd830b3fa93c

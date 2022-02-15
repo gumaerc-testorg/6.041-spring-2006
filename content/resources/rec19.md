@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problem set for recitation nineteen.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/f21e6764985a8d676f7f4ec971533edc_rec19.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/f21e6764985a8d676f7f4ec971533edc_rec19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec19.pdf
 uid: f21e6764-985a-8d67-6f7f-4ec971533edc

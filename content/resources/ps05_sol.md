@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to problem set 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/5ee4740baba169dcdc08c62c3fe56b47_ps05_sol.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/5ee4740baba169dcdc08c62c3fe56b47_ps05_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps05_sol.pdf
 uid: 5ee4740b-aba1-69dc-dc08-c62c3fe56b47

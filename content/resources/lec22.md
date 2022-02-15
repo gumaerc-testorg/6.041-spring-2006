@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on central limit theorem, and pollster's
   problem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/76e66ae14d4a88936b9b3922cfc6f31a_lec22.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/76e66ae14d4a88936b9b3922cfc6f31a_lec22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec22.pdf
 uid: 76e66ae1-4d4a-8893-6b9b-3922cfc6f31a

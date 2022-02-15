@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains answers to tutorial twelve.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/3cc8a41188d69f64a0b8a16590d4cc2f_tut12_ans.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/3cc8a41188d69f64a0b8a16590d4cc2f_tut12_ans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: tut12_ans.pdf
 uid: 3cc8a411-88d6-9f64-a0b8-a16590d4cc2f

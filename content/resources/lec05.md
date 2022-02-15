@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on random variables, probability mass
   function, and expectation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/965eca66579cdce0556d578f7bc69e58_lec05.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/965eca66579cdce0556d578f7bc69e58_lec05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec05.pdf
 uid: 965eca66-579c-dce0-556d-578f7bc69e58

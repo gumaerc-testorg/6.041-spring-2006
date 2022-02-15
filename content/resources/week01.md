@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on De Morgan's, and probability.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/2661fa4fa65998cc35ff3f543f0b8cb9_week01.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/2661fa4fa65998cc35ff3f543f0b8cb9_week01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: week01.pdf
 uid: 2661fa4f-a659-98cc-35ff-3f543f0b8cb9

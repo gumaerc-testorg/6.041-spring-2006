@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions for quiz two.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d136415ac4f38b50b4ef7162957d4375_quiz2_sol.pdf
+file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d136415ac4f38b50b4ef7162957d4375_quiz2_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz2_sol.pdf
 uid: d136415a-c4f3-8b50-b4ef-7162957d4375
