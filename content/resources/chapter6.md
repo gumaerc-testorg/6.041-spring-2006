@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6b8bc437-18d5-7dd0-a428-70e7bc36a564
 resourcetype: Document
 title: chapter6.pdf
 uid: c633628a-7a62-5604-47d3-b9a345282323

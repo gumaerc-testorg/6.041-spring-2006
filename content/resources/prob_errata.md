@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9325de54-2d65-bf39-fdfd-628b4570d9ff
 resourcetype: Document
 title: prob_errata.pdf
 uid: b20cb914-fe3e-3421-2846-2745d31d7a37
