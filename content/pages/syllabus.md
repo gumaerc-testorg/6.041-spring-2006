@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: The syllabus section contains Prerequisites, 6.041 and 6.431, lectures,
+  study habits, recitations, tutorials, administrative matters, study habits, text,
+  homework problems, quizzes and exams, conflict exams, grades, 6.041/6.431 statement
+  on collaboration, honesty, etc, additional help from staff members, special personal
+  situations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 5226f299-261c-a8b6-6a26-057b48f2281e
 ---
 
-This section contains detailed information about the course components. A list of topics covered in the course is available in the [calendar]({{< baseurl >}}/pages/calendar) section.
+This section contains detailed information about the course components. A list of topics covered in the course is available in the {{% resource_link ea3356c0-3faf-7e84-bf4e-f1d2beb306fb "calendar" %}} section.
 
 Course Meeting Times
 --------------------
@@ -43,16 +48,16 @@ Make it a point to go to staff office hours if you have any questions or just wa
 Recitations
 -----------
 
-Recitations meet on Tuesdays and Thursdays, and attendance is mandatory. In recitation, your instructor elaborates on the theory, works through new examples with your participation, and answers your questions about them. The recitation assignments will be based on the recitation and tutorial schedule forms you complete and turn in immediately at the end of the first lecture. The recitation assignments will be available in Rec #1 by 8 a.m., so that you can attend recitations. The recitation assignments will be available in the [recitations]({{< baseurl >}}/pages/recitations) section, and for the entire semester. Requests for a change of recitation must include a revised and complete listing of your schedule, with MIT course numbers accompanying any conflicts. Submit your revised schedule by email to the Head TA.
+Recitations meet on Tuesdays and Thursdays, and attendance is mandatory. In recitation, your instructor elaborates on the theory, works through new examples with your participation, and answers your questions about them. The recitation assignments will be based on the recitation and tutorial schedule forms you complete and turn in immediately at the end of the first lecture. The recitation assignments will be available in Rec #1 by 8 a.m., so that you can attend recitations. The recitation assignments will be available in the {{% resource_link 72e75de2-011e-beee-30c9-acf41ced8ab8 "recitations" %}} section, and for the entire semester. Requests for a change of recitation must include a revised and complete listing of your schedule, with MIT course numbers accompanying any conflicts. Submit your revised schedule by email to the Head TA.
 
 Tutorials
 ---------
 
-Tutorials for 6.041 and 6.431 meet on Thursday afternoons and Fridays, and will be assigned in response to the recitation and tutorial schedule form, within a few days. In tutorial, you discuss and solve new examples with a little help from your classmates and your instructor. Tutorials are active sessions to help you develop confidence in thinking about probabilistic situations in real time. Tutorials are not mandatory, but are highly recommended. Past students have found them to be very helpful. The TA who leads the tutorial you are assigned to, will be your first point of contact for questions on the problem sets. Tutorial assignments will be available in the [assignments]({{< baseurl >}}/pages/assignments) section. Requests for a change of tutorial must include a revised listing of your schedule, and should be submitted promptly by email to the Head TA.
+Tutorials for 6.041 and 6.431 meet on Thursday afternoons and Fridays, and will be assigned in response to the recitation and tutorial schedule form, within a few days. In tutorial, you discuss and solve new examples with a little help from your classmates and your instructor. Tutorials are active sessions to help you develop confidence in thinking about probabilistic situations in real time. Tutorials are not mandatory, but are highly recommended. Past students have found them to be very helpful. The TA who leads the tutorial you are assigned to, will be your first point of contact for questions on the problem sets. Tutorial assignments will be available in the {{% resource_link 9325de54-2d65-bf39-fdfd-628b4570d9ff "assignments" %}} section. Requests for a change of tutorial must include a revised listing of your schedule, and should be submitted promptly by email to the Head TA.
 
 ### Administrative Matters
 
-Recitation and tutorial assignments will be handled by the Head TA. Scheduling of makeup exams are also handled by the Head TA. Copies of material distributed in lecture and tutorials can be found in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) and [recitations]({{< baseurl >}}/pages/recitations) sections, respectively. Other administrative matters, such as reasons for missing recitations and tutorials can be handled by discussion with your recitation instructor and assigned TA. Graded homework problems will be returned to you in your assigned tutorial.
+Recitation and tutorial assignments will be handled by the Head TA. Scheduling of makeup exams are also handled by the Head TA. Copies of material distributed in lecture and tutorials can be found in the {{% resource_link 5115a4d4-14f7-2093-5613-ea130dd27f49 "lecture notes" %}} and {{% resource_link 72e75de2-011e-beee-30c9-acf41ced8ab8 "recitations" %}} sections, respectively. Other administrative matters, such as reasons for missing recitations and tutorials can be handled by discussion with your recitation instructor and assigned TA. Graded homework problems will be returned to you in your assigned tutorial.
 
 Text
 ----
@@ -70,7 +75,7 @@ Ross, S. _A First Course in Probability_. Upper Saddle River, NJ: Prentice Hall,
 Homework Problems
 -----------------
 
-Homework problems will be handed out on Wednesdays and will be due at the **beginning of lecture** the following Wednesday (unless otherwise stated). Solutions are available in the [assignments]({{< baseurl >}}/pages/assignments) section. There will be a total of 11 homework's collected, with problem set 12 not handed in.
+Homework problems will be handed out on Wednesdays and will be due at the **beginning of lecture** the following Wednesday (unless otherwise stated). Solutions are available in the {{% resource_link 9325de54-2d65-bf39-fdfd-628b4570d9ff "assignments" %}} section. There will be a total of 11 homework's collected, with problem set 12 not handed in.
 
 Since problem set solutions are available immediately after they are due, **we cannot accept any late problem sets**. In light of this strict policy we do allow everyone to miss one problem set for any reason. Thus your final problem set grade will be the average of your best 10 problem set grades (i.e. best 10 out of 11). Students who submit a note from the MIT Medical Department or other appropriate offices, will also be excused from additional problem sets. In such cases, all additional excused problem set grades will simply be dropped from the final average. Contact the EECS Administrator or the EECS undergrad office to find out more details on obtaining medical and/or personal notes. Also note that the first missed problem set is used as the **one time free drop**, regardless of the reason. Please see the head TA if you have further questions regarding this policy.
 

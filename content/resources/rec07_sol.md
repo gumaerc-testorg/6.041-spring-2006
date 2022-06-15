@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8bb85df8b259ff0665bb6351a14de178_rec07_sol.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8bb85df8b259ff0665bb6351a14de178_rec07_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
