@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec14_sol.pdf
 uid: 6eba801a-c947-d59f-08b4-52fc0cfa911f
 ---
 This resource contains solutions to problem set in recitaion fourteen.
-

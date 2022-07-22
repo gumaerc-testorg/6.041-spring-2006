@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rec08.pdf
 uid: fc1b6b69-59d9-42ed-2cd5-573a7a88f2b5
 ---
 This resource contains problem set on topic probability for recitaion eight.
-

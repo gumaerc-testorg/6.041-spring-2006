@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week04.pdf
 uid: f8d89267-66b4-41cb-fb2c-9e3cdd2286a4
 ---
 This resource contains information on probability.
-

@@ -5,6 +5,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz2.pdf
 uid: 160837b7-7f76-8e0f-e742-89d79d2bf2c9
 ---
 This resource contains problem set for quiz two.
-

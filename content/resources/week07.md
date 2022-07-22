@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week07.pdf
 uid: ac5aeb66-e586-d560-5b64-7f7d85e4de3b
 ---
 This resource contains information on derived distributions, convolution, and transforms.
-

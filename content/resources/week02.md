@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week02.pdf
 uid: bc5b2f00-3e02-158b-f1b8-458509565379
 ---
 This resource contains information on discrete random variables, and PMFs.
-

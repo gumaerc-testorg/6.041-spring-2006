@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec17.pdf
 uid: 6dd985bf-7386-ff88-2a42-4b5fb984f2b2
 ---
 This resource contains information on bernoulli process, poisson process, and its basic properties.
-

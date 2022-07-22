@@ -6,6 +6,7 @@ file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec20.pdf
 uid: 0f84aff3-d107-00a9-72a0-6d5862add9f2
 ---
 This resource contains information on markov processes ?II, markov process review, steady-state behavior, and birth-death processes.
-
