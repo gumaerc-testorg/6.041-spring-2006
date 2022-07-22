@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The tools section contains simulation files and applets used to reinforce
+  the probability concepts covered in the course.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 494cd265-68a0-1874-9285-66a6bf761cc5
 ---

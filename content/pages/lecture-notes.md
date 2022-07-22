@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The lecture notes section contains the class notes files for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5115a4d4-14f7-2093-5613-ea130dd27f49
 ---
@@ -22,7 +26,7 @@ TOPICS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Probability Models and Axioms ([PDF)]({{< baseurl >}}/resources/lec01)
+Probability Models and Axioms ({{% resource_link e93a3d82-42ae-1c6e-75f7-ea9c0a2aa3bf "PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Probability Models and Axioms ([PDF)]({{< baseurl >}}/resources/lec01)
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Conditioning and Bayes' Rule ([PDF]({{< baseurl >}}/resources/lec02))
+Conditioning and Bayes' Rule ({{% resource_link cb76456e-a51c-c93d-2a50-452b3be9ddc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Conditioning and Bayes' Rule ([PDF]({{< baseurl >}}/resources/lec02))
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Independence ([PDF]({{< baseurl >}}/resources/lec03))
+Independence ({{% resource_link 742af76f-ecc7-0951-d06c-a0fca77c4b13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Independence ([PDF]({{< baseurl >}}/resources/lec03))
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Counting Sections ([PDF]({{< baseurl >}}/resources/lec04))
+Counting Sections ({{% resource_link 8bfb4ed0-55f0-3a80-31cb-1f847e3545ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Counting Sections ([PDF]({{< baseurl >}}/resources/lec04))
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Discrete Random Variables; Probability Mass Functions; Expectations ([PDF]({{< baseurl >}}/resources/lec05))
+Discrete Random Variables; Probability Mass Functions; Expectations ({{% resource_link 965eca66-579c-dce0-556d-578f7bc69e58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Discrete Random Variables; Probability Mass Functions; Expectations ([PDF]({{< b
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Conditional Expectation; Examples ([PDF]({{< baseurl >}}/resources/lec06))
+Conditional Expectation; Examples ({{% resource_link 0ba32c27-6891-edcf-b233-b7dd35e2d594 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Conditional Expectation; Examples ([PDF]({{< baseurl >}}/resources/lec06))
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Multiple Discrete Random Variables ([PDF]({{< baseurl >}}/resources/lec07))
+Multiple Discrete Random Variables ({{% resource_link 9cc8a68e-e8c7-d854-6a15-45a74269c220 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Multiple Discrete Random Variables ([PDF]({{< baseurl >}}/resources/lec07))
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-Continuous Random Variables - I ([PDF]({{< baseurl >}}/resources/lec08))
+Continuous Random Variables - I ({{% resource_link a376cbc0-0b17-6ce0-efd7-202248e6bcb7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Continuous Random Variables - I ([PDF]({{< baseurl >}}/resources/lec08))
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Continuous Random Variables - II ([PDF]({{< baseurl >}}/resources/lec09))
+Continuous Random Variables - II ({{% resource_link 734a9765-3078-fdfa-1fde-6cb46b6e440e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Continuous Random Variables - II ([PDF]({{< baseurl >}}/resources/lec09))
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Continuous Random Variables and Derived Distributions ([PDF]({{< baseurl >}}/resources/lec10))
+Continuous Random Variables and Derived Distributions ({{% resource_link 0cced51c-b2e7-e606-2d04-055e7e4c1684 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Continuous Random Variables and Derived Distributions ([PDF]({{< baseurl >}}/res
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-More on Continuous Random Variables, Derived Distributions, Convolution ([PDF]({{< baseurl >}}/resources/lec11))
+More on Continuous Random Variables, Derived Distributions, Convolution ({{% resource_link 282477dc-1e22-6fe4-27ee-8fd174f6126a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ More on Continuous Random Variables, Derived Distributions, Convolution ([PDF]({
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Transforms ([PDF]({{< baseurl >}}/resources/lec12))
+Transforms ({{% resource_link f8f14946-03bb-6780-2955-111643256af4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +134,7 @@ Transforms ([PDF]({{< baseurl >}}/resources/lec12))
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Iterated Expectations ([PDF]({{< baseurl >}}/resources/lec13))
+Iterated Expectations ({{% resource_link 2fdbe66e-754d-a709-7626-2f31e9be3f7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ Iterated Expectations ([PDF]({{< baseurl >}}/resources/lec13))
 L13A
 {{< tdclose >}}
 {{< tdopen >}}
-Sum of a Random Number of Random Variables ([PDF]({{< baseurl >}}/resources/lec13a))
+Sum of a Random Number of Random Variables ({{% resource_link 65fc4bb2-d347-67d8-8dc0-fc4d706b9bfc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Sum of a Random Number of Random Variables ([PDF]({{< baseurl >}}/resources/lec1
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-Prediction; Covariance and Correlation ([PDF]({{< baseurl >}}/resources/lec14))
+Prediction; Covariance and Correlation ({{% resource_link ae6088f5-d8ad-e5c8-bbbe-779d8de73fab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Prediction; Covariance and Correlation ([PDF]({{< baseurl >}}/resources/lec14))
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Weak Law of Large Numbers ([PDF]({{< baseurl >}}/resources/lec15))
+Weak Law of Large Numbers ({{% resource_link 77258a6b-71c4-a225-02f1-1ddc7858b0a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Weak Law of Large Numbers ([PDF]({{< baseurl >}}/resources/lec15))
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Bernoulli Process ([PDF]({{< baseurl >}}/resources/lec16))
+Bernoulli Process ({{% resource_link dd3d5acd-f8e7-dd61-fd0e-b92823603905 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +179,7 @@ Bernoulli Process ([PDF]({{< baseurl >}}/resources/lec16))
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Poisson Process ([PDF]({{< baseurl >}}/resources/lec17))
+Poisson Process ({{% resource_link 6dd985bf-7386-ff88-2a42-4b5fb984f2b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +188,7 @@ Poisson Process ([PDF]({{< baseurl >}}/resources/lec17))
 L18
 {{< tdclose >}}
 {{< tdopen >}}
-Poisson Process Examples ([PDF]({{< baseurl >}}/resources/lec18))
+Poisson Process Examples ({{% resource_link 6eac8af8-d761-4328-afe0-9c90a654bc42 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Poisson Process Examples ([PDF]({{< baseurl >}}/resources/lec18))
 L19
 {{< tdclose >}}
 {{< tdopen >}}
-Markov Chains - I ([PDF]({{< baseurl >}}/resources/lec19))
+Markov Chains - I ({{% resource_link 20620771-67ce-634d-d880-e9716d36d41c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Markov Chains - I ([PDF]({{< baseurl >}}/resources/lec19))
 L20
 {{< tdclose >}}
 {{< tdopen >}}
-Markov Chains - II ([PDF]({{< baseurl >}}/resources/lec20))
+Markov Chains - II ({{% resource_link 0f84aff3-d107-00a9-72a0-6d5862add9f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ Markov Chains - II ([PDF]({{< baseurl >}}/resources/lec20))
 L21
 {{< tdclose >}}
 {{< tdopen >}}
-Markov Chains - III ([PDF]({{< baseurl >}}/resources/lec21))
+Markov Chains - III ({{% resource_link 1a538356-bf7a-1f78-408d-e525dd2d1032 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Markov Chains - III ([PDF]({{< baseurl >}}/resources/lec21))
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Central Limit Theorem ([PDF]({{< baseurl >}}/resources/lec22))
+Central Limit Theorem ({{% resource_link 76e66ae1-4d4a-8893-6b9b-3922cfc6f31a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +233,7 @@ Central Limit Theorem ([PDF]({{< baseurl >}}/resources/lec22))
 L23
 {{< tdclose >}}
 {{< tdopen >}}
-Central Limit Theorem (cont.), Strong Law of Large Numbers ([PDF]({{< baseurl >}}/resources/lec23))
+Central Limit Theorem (cont.), Strong Law of Large Numbers ({{% resource_link 27693721-d2a6-5e36-92fc-80c2b16f24b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
