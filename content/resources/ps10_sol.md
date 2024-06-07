@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/7ebce4f35f973a78e6cdd8204cd28ec5_ps10_sol.pdf
+file_size: 120852
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Textbook by Alvin W. Drake.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/72aca01b408c46d2f244962c9f22b0a8_drake_toc.pdf
+file_size: 215435
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

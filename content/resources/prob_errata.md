@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems related to probability.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/b20cb914fe3e342128462745d31d7a37_prob_errata.pdf
+file_size: 80507
 file_type: application/pdf
 learning_resource_types:
 - Assignments

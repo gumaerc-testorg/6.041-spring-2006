@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on baye's rule, conditional probability,
   and normal RV.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/b77116d5fbcc567858cb23adf899cc86_week05.pdf
+file_size: 41547
 file_type: application/pdf
 learning_resource_types:
 - Recitations

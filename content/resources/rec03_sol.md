@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions and references to their solutions for
   problems in recitaion three.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6b595ca59d5d2cbb2faf25cfe4a84835_rec03_sol.pdf
+file_size: 47779
 file_type: application/pdf
 learning_resource_types:
 - Recitations

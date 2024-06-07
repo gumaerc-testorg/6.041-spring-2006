@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter from a course text.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/a39ef570f9ebd2affdd94727a33a74e6_chapter5.pdf
+file_size: 1325458
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
