@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the final quiz.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/77ebe696217b31ab03163864cdfdd117_final_sol.pdf
+file_size: 280180
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to problem set 3.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/acbcbdd2aec9bca43f975b1c37d8cc06_ps03_sol.pdf
+file_size: 99812
 file_type: application/pdf
 learning_resource_types:
 - Assignments

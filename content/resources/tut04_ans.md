@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains answers to tutorial four.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/db739da46a193bc77e0628a6672d6d5f_tut04_ans.pdf
+file_size: 46749
 file_type: application/pdf
 learning_resource_types:
 - Recitations
