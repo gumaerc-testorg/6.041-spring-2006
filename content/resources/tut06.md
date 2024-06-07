@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains tutorials for the course.
 file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/918f3871ede953dfe3f683f68e91e60b_tut06.pdf
+file_size: 47313
 file_type: application/pdf
 learning_resource_types:
 - Recitations
