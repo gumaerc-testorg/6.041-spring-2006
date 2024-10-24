@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/92b5e00fa719f5fcecbb0a3f12e4e92b_rec08_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/92b5e00fa719f5fcecbb0a3f12e4e92b_rec08_sol.pdf
 file_size: 85852
 file_type: application/pdf
 learning_resource_types:
