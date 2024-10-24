@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to problem set 6.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/137392380561b7714f2f51705bbcdc44_ps06_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/137392380561b7714f2f51705bbcdc44_ps06_sol.pdf
 file_size: 96024
 file_type: application/pdf
 learning_resource_types:
