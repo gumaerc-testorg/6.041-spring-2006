@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter from a course text.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8c03011e0c589bdc9c302dd6d49df162_chapter4.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8c03011e0c589bdc9c302dd6d49df162_chapter4.pdf
 file_size: 1253072
 file_type: application/pdf
 learning_resource_types: []
