@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains answers to tutorial three.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/1f02b12bac3908c19e5b3d62a25f16b6_tut03_ans.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/1f02b12bac3908c19e5b3d62a25f16b6_tut03_ans.pdf
 file_size: 78113
 file_type: application/pdf
 learning_resource_types:

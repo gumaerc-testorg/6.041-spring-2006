@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on random processes, bernoulli process,
   and its basic properties.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/dd3d5acdf8e7dd61fd0eb92823603905_lec16.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/dd3d5acdf8e7dd61fd0eb92823603905_lec16.pdf
 file_size: 139028
 file_type: application/pdf
 learning_resource_types:

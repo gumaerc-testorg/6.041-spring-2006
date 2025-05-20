@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains dice related problems in probability given in
   recitation twelve.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/fef685908bf9e3a27fb999c06a818429_rec12.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/fef685908bf9e3a27fb999c06a818429_rec12.pdf
 file_size: 40568
 file_type: application/pdf
 learning_resource_types:

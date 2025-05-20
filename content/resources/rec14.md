@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on correlation coefficient.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8fcc6746b20f1a24a247aeef14834826_rec14.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/8fcc6746b20f1a24a247aeef14834826_rec14.pdf
 file_size: 44926
 file_type: application/pdf
 learning_resource_types:

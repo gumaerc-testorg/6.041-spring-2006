@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on definition of Transforms, moment
   generating property, and application to sums of independent R.V.s.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/f8f1494603bb67802955111643256af4_lec12.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/f8f1494603bb67802955111643256af4_lec12.pdf
 file_size: 108778
 file_type: application/pdf
 learning_resource_types:
