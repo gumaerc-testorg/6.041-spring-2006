@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on bernoulli process, poisson process,
   and its basic properties.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6dd985bf7386ff882a424b5fb984f2b2_lec17.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6dd985bf7386ff882a424b5fb984f2b2_lec17.pdf
 file_size: 128965
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to problems given in recitaion twelve.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/dc182031036259e7b6489b58ab8b08c7_rec12_sol.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/dc182031036259e7b6489b58ab8b08c7_rec12_sol.pdf
 file_size: 69405
 file_type: application/pdf
 learning_resource_types:
