@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on multiple random variables with
   examples.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/734a97653078fdfa1fde6cb46b6e440e_lec09.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/734a97653078fdfa1fde6cb46b6e440e_lec09.pdf
 file_size: 135340
 file_type: application/pdf
 learning_resource_types:

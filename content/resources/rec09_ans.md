@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains answers to problems  in recitaion nine.
-file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6b5727372dedb6dc077385fbe60aa11e_rec09_ans.pdf
+file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/6b5727372dedb6dc077385fbe60aa11e_rec09_ans.pdf
 file_size: 69010
 file_type: application/pdf
 learning_resource_types:
