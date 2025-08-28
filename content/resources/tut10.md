@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains tutorials for the course.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d456dd20f3dee4a2c758a0dcc1b9942f_tut10.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/d456dd20f3dee4a2c758a0dcc1b9942f_tut10.pdf
 file_size: 44519
 file_type: application/pdf
 learning_resource_types:
