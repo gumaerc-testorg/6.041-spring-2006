@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set on topic probability for recitaion
   eight.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/fc1b6b6959d942ed2cd5573a7a88f2b5_rec08.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/fc1b6b6959d942ed2cd5573a7a88f2b5_rec08.pdf
 file_size: 49815
 file_type: application/pdf
 learning_resource_types:
