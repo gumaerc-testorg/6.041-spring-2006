@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to problem set in recitaion seventeen.
-file: /courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/c1bef8df65b98c95572dbbcb12981fc3_rec17_sol.pdf
+file: /ol-ocw-studio-app/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/c1bef8df65b98c95572dbbcb12981fc3_rec17_sol.pdf
 file_size: 40044
 file_type: application/pdf
 learning_resource_types:
