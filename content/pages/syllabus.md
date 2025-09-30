@@ -62,9 +62,9 @@ Recitation and tutorial assignments will be handled by the Head TA. Scheduling o
 Text
 ----
 
-The text for this course is _Introduction to Probability_, by Bertsekas and Tsitsiklis. Solutions to end-of-chapter problems are also available ([PDF](http://athenasc.com/probsolved.pdf)). We recommend that you print out these solutions. A few of these problems will be covered in recitation and tutorial. The remaining ones can be used for self-study (for best results, always try to solve a problem on your own, before reading the solution).
+The text for this course is _Introduction to Probability_, by Bertsekas and Tsitsiklis. Solutions to end-of-chapter problems are also available ({{% resource_link "e0c174b0-1ca1-4644-8261-9c426b6a70a5" "PDF" %}}). We recommend that you print out these solutions. A few of these problems will be covered in recitation and tutorial. The remaining ones can be used for self-study (for best results, always try to solve a problem on your own, before reading the solution).
 
-Bertsekas, Dimitri P., and John N. Tsitsiklis. _Introduction to Probability_. Belmont, MA: [Athena Scientific Press](http://www.athenasc.com/probbook.html), June 2002. ISBN: 188652940X.
+Bertsekas, Dimitri P., and John N. Tsitsiklis. _Introduction to Probability_. Belmont, MA: {{% resource_link "546c57b9-286d-4bf1-9183-2e39d1a1136e" "Athena Scientific Press" %}}, June 2002. ISBN: 188652940X.
 
 Additionally, the following books are useful. They cover many of the topics in this course, although in a different style. You may wish to consult them to get a different perspective on particular topics:
 

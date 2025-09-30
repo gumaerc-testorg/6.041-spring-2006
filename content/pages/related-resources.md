@@ -9,21 +9,21 @@ uid: 6b8bc437-18d5-7dd0-a428-70e7bc36a564
 ---
 ## Probability Links
 
-Problem Solutions: Solutions to Problems in the Textbook ([PDF](http://www.athenasc.com/probsolved.pdf))
+Problem Solutions: Solutions to Problems in the Textbook ({{% resource_link "5c6715d3-70a0-4e26-9ff4-ecc419044052" "PDF" %}})
 
-[MathPages: Probability and Statistics](http://www.mathpages.com/home/iprobabi.htm) - A sampling of classic problems in probability and statistics.
+{{% resource_link "25980ba7-2174-45b6-b643-188f26c55d06" "MathPages: Probability and Statistics" %}} - A sampling of classic problems in probability and statistics.
 
-The [Normal Distribution](http://en.wikipedia.org/wiki/Normal_distribution) - Tutorial A tutorial on the Normal or *Gaussian* distribution.
+The {{% resource_link "0f1cc8d0-3210-4f92-8672-affd5606a433" "Normal Distribution" %}} - Tutorial A tutorial on the Normal or *Gaussian* distribution.
 
 MATLAB® Probability Tutorial - MATLAB® programs dealing mostly with random variables
 
-[The Applied Probability Trust](http://www.appliedprobability.org/) - The home page for the non-profit foundation that publishes the *Journal of Applied Probability and Advances in Applied Probability*.
+{{% resource_link "e92b5b1b-ccf6-4dcb-bf92-ebdf8758ebdd" "The Applied Probability Trust" %}} - The home page for the non-profit foundation that publishes the *Journal of Applied Probability and Advances in Applied Probability*.
 
-[The Layman's Guide to Probability Theory](http://www.probabilitytheory.info/) - An easily readable guide that covers various aspects of probability theory, with a bias to gambling games.
+{{% resource_link "1455935e-0c7d-4fc4-8066-1cc7baf29535" "The Layman's Guide to Probability Theory" %}} - An easily readable guide that covers various aspects of probability theory, with a bias to gambling games.
 
-[Math for Morons Like Us--Algebra II: Probability](https://www.techlearning.com/resources/math-for-morons-like-us-algebra-ii) - A brief tutorial, focusing mainly on the topic of counting.
+{{% resource_link "242f5cfe-a494-4e96-8972-e6031f093539" "Math for Morons Like Us--Algebra II: Probability" %}} - A brief tutorial, focusing mainly on the topic of counting.
 
-[Common Probability Distributions](http://www.causascientia.org/math_stat/Dists/Compendium.html) - A Compendium which covers numbers of useful distributions for modeling of random data.
+{{% resource_link "00627cda-2af4-40ba-9178-526284e6fca7" "Common Probability Distributions" %}} - A Compendium which covers numbers of useful distributions for modeling of random data.
 
 ## Al Drake's Book
 
